@@ -1,0 +1,4 @@
+Clave UCC: 2426038.
+Semestre: Primer semestre de Primer año.
+Carrera: Ingeniería en Informática.
+Asignatura: Laboratorio de Computación. 
