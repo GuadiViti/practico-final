@@ -1,0 +1,2 @@
+Gracias a este trabajo entendí más hacerca de los comandos en git bash. 
+Como por ejemplo, que no hace falta siempre realizar un git commit luego del git add .
